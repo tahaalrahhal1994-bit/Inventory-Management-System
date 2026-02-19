@@ -1,4 +1,15 @@
 ### IntelliJ IDEA ###
+
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build output
+out/
+
+# OS files
+.DS_Store
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
